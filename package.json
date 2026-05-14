@@ -2,7 +2,6 @@
   "name": "algolens",
   "version": "1.0.0",
   "description": "A semantic DSA problem search engine using TF-IDF ranking, cosine similarity, and web scraping to discover coding problems across competitive programming platforms.",
-  "license": "MIT",
   "type": "module",
   "main": "index.js",
   "scripts": {
